@@ -47,5 +47,3 @@ My focus was on learning
 ## Cart screenshot
 
 ![Cart screenshot](https://github.com/Arashnasrivatan/HackPad/blob/main/images/cart.png?raw=true)
-
-
